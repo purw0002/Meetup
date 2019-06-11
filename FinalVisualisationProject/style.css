@@ -1,0 +1,208 @@
+
+    
+    #attendanceHeading
+    {
+            color: white;
+    font-size: 19px;
+    text-align: center;
+    margin-top: 40px;
+    }
+    
+    
+    
+    
+    .hopscotch-actions
+    {
+        position: absolute;
+    }
+    
+    
+    
+ 
+.prev, .next {
+  cursor: pointer;
+  position: fixed;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  border-radius: 0 3px 3px 0;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(220,220,220,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+    
+    
+    
+    #chart
+    {
+            margin-top: 100px;
+    }
+h1 {
+  font-family:arial;
+  font-size:2em;
+  color:#333;
+}
+#info {
+  position:absolute;
+  top: 10px;
+  left: 10px;
+}
+.states {
+	fill: #e5e5e5;
+	stroke: #fff;
+	stroke-width:2px;
+}
+   .domain{
+  fill: white;
+}
+    
+    .textDecorate
+    {
+            color: red;
+    font-size: 65px;
+    margin-top: 31px;
+    margin-left: 31%;
+    }
+    .tick
+    {
+  fill: red;
+    }
+
+    
+    #WC
+    {
+        float:right;
+    }
+    
+    #pieC
+    {
+            float: left;
+margin-top: 200px;    width: 32%;
+    }
+        div.tooltip {
+    position: absolute;			
+    text-align: center;			
+    width: 150px;					
+    height: 30px;					
+    padding: 2px;				
+    font: 12px sans-serif;		
+    background: lightsteelblue;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+        }
+    body
+    {
+            background: black;    }
+    #wordCloud
+    {
+            margin-left: 12%;
+    margin-top: 50px;
+    }
+      div1.tooltip {
+    position: absolute;			
+    text-align: center;			
+    width: 150px;					
+    height: 30px;					
+    padding: 2px;				
+    font: 12px sans-serif;		
+    background: lightsteelblue;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+        }        
+
+    #headerForNetwork
+    {
+            color: white;
+    font-size: 19px;
+    text-align: center;
+    margin-top: 40px;
+    }
+      rect.bordered {
+        stroke: #E6E6E6;
+        stroke-width:2px;  
+      }
+
+      text.mono {
+        font-size: 9pt;
+        font-family: Consolas, courier;
+        fill: #aaa;
+      }
+
+      text
+    {
+        fill:white;
+    }
+    
+    
+.states:hover {
+	fill: steelblue;
+}
+    
+#mapSvg {
+    margin-left: 15%;
+    margin-top: 42px;
+}
+
+    #screen1
+    {
+
+    }
+    #screen2 {
+                                        display:none;
+    }
+    
+    #screen3 {
+                                                        display:none;
+
+    }

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8">
+   <head>
+      <script>
+         var init = 0;
+         
+         function plusSlides(a)
+         {
+             init = init+a;
+                         console.log(init);
+         
+             if(init == 1)
+                 {
+                     $("#screen2").show();
+                     $("#screen1").hide();
+                     $("#screen3").hide();
+                                         $(".next").show();
+                     $(".prev").show();
+         
+                 }
+             else if(init ==2)
+                 {
+                     $("#screen2").hide();
+                     $("#screen1").hide();
+                     $("#screen3").show();
+                     $(".next").hide();
+                 }
+             else if(init == 0)
+                 {
+                     $("#screen2").hide();
+                     $("#screen1").show();
+                     $("#screen3").hide();
+                     $(".next").show();
+                     $(".prev").hide();
+                 }
+         }
+      </script>
+      <link rel="stylesheet" href="style.css" />
+      <script src="js/jquery-2.2.4.min.js"></script>
+      <script src="js/d3.v3.min.js" charset="utf-8"></script>
+      <script src="js/topojson.v1.min.js"></script>
+      <script src="screen1.js"></script>
+      <script src="cloud.js"></script>
+      <script src="screen2.js"></script>
+      <script src="screen3.js"></script>
+      <script src="data/prepareData.js"></script>
+      <script src="hopscotchImplementation.js"></script>
+   </head>
+   <body>
+      <a class="prev" style="display:none;" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+      <div id="screen1">
+         <div style="    color: white;
+            /* font-size: 21px; */
+            text-align: center;
+            font-size: 37px;">Meetup Member Density</div>
+         <div id="mapChart"></div>
+         <div style="color:white;text-align:center">This Map contains the total member density for each state in United States of America</div>
+         <div style="float:left;" id="chart"></div>
+         <div style="float:left;" id="pieC"></div>
+         <div id="cityWiseBarChart"></div>
+      </div>
+      <div id="screen2">
+         <div style="    color: white;
+            font-size: 37px;
+            text-align: center;">Meetup Cities</div>
+         <div id="selectedCity" style="color:white;float:right;font-size:13px;margin-top:30px">&nbsp <b>Chicago, San Francisco and New York</b></div>
+         <div style="color:white;float:right;font-size:13px;margin-top:30px">Selected City:</div>
+         <select id="wordCloudSelector" style="    width: 50%;
+            height: 29px;
+            font-size: 22px;
+            text-align: center;
+            margin-top: 30px;">
+            <option value="All">All</option>
+            <option value="Chicago">Chicago</option>
+            <option value="New York">New York</option>
+            <option value="San Francisco">San Francisco</option>
+         </select>
+         <div id="container" style="width:1000px;height:inherit;float:left;">
+            <div  id="headerForNetwork">Relationship between categories and members</div>
+         </div>
+         <div style="width:300px;float:left;height:500px">
+            <div id="attendanceHeading" style="color:white">Meeting Attendance for all Categories</div>
+            <svg id="barChartForCities" width="500" height="500" style="margin-top: 50px"></svg>
+         </div>
+         <div id="wordCloud" style="    float: left;">
+            <div style="    color: white;
+               font-size: 19px;
+               margin-top: 100px;
+               text-align: center;">Most popular places where meetups happen</div>
+         </div>
+      </div>
+      <div id="screen3">
+         <div id="headerHeatMap" style="color: white;
+            font-size: 37px;
+            text-align: center;">Time when Meetups Happen</div>
+         <div id="heatMap">
+            <div style="    color: white;
+               text-align: center;
+               margin-top: 40px;
+               font-size: 22px;">Meetup events peak timings</div>
+            <svg id="svgForHeatMap"  width="1000" height="500" style="
+               margin-left: 13%;
+               margin-top: 5px;"></svg>
+            <div id="barChartHeading" style="color:white;width=450px;margin-left:74%">Members attending Career/Fine Arts/Book Club</div>
+            <div id="refreshButton" style="width:34px;height:30px; float :right;border-radius: 3px;background-color: gainsboro; cursor:pointer;font-size:10px;padding-top: 15px">Refresh</div>
+            <div id="consclusion" style="color: white;
+               float: left;
+               width: 50%;
+               margin-left: 5%;
+               height: 500px;">
+               <div style="font-size:30px;text-align: center; color:red">CONCLUSION</div>
+               <div style="margin-top:30px;    font-size: 23px;  line-height: 1.6;
+                  ">
+                  1. Meetups are most popular in California and New York.<br/>
+                  2. California has a total member count of 723226 members(16%) and New York has a member count of 454969(10%).<br/>
+                  3. Tech is the category with the most number of Meetups in Chicago, New York and San Francisco (Total of 1817454 members).<br/>
+                  4. Members attending meetup from all categories tend to join social events.<br/>
+                  5. Central Park is the most common place where meetup happens in New York, Starbucks in Chicago.<br/>
+                  6. Lot of Meetups happen during night hours. Most busiest time for meetup is Friday 1am.
+               </div>
+            </div>
+            <svg id="barChartForHeatMap"  width="450" height="500" style="float:right;"></svg>
+         </div>
+      </div>
+      <!--<div style="background-color: aqua;width:50px;height:50px;position: fixed;  top: 90%;    background: rgba(60, 60, 60, 0.4);" ></div>-->
+   </body>
+</html>

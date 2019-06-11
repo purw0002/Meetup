@@ -1,0 +1,1243 @@
+[
+  {
+    "hour": 23,
+    "count": 436,
+    "day": 6,
+    "career/business": 98,
+    "fine arts/culture": 22,
+    "book clubs": 13
+  },
+  {
+    "hour": 22,
+    "count": 369,
+    "day": 5,
+    "career/business": 82,
+    "fine arts/culture": 13,
+    "book clubs": 6
+  },
+  {
+    "hour": 22,
+    "count": 169,
+    "day": 4,
+    "fine arts/culture": 16,
+    "career/business": 80,
+    "book clubs": 6
+  },
+  {
+    "hour": 22,
+    "count": 483,
+    "day": 2,
+    "career/business": 102,
+    "fine arts/culture": 23,
+    "book clubs": 13
+  },
+  {
+    "hour": 22,
+    "count": 197,
+    "day": 7,
+    "career/business": 108,
+    "fine arts/culture": 18,
+    "book clubs": 6
+  },
+  {
+    "hour": 22,
+    "count": 471,
+    "day": 1,
+    "career/business": 93,
+    "fine arts/culture": 14,
+    "book clubs": 4
+  },
+  {
+    "hour": 23,
+    "count": 420,
+    "day": 3,
+    "career/business": 105,
+    "fine arts/culture": 33,
+    "book clubs": 12
+  },
+  {
+    "hour": 22,
+    "count": 177,
+    "day": 6,
+    "fine arts/culture": 19,
+    "career/business": 79,
+    "book clubs": 6
+  },
+  {
+    "hour": 23,
+    "count": 537,
+    "day": 1,
+    "career/business": 89,
+    "fine arts/culture": 31,
+    "book clubs": 15
+  },
+  {
+    "hour": 22,
+    "count": 305,
+    "day": 3,
+    "career/business": 97,
+    "fine arts/culture": 16,
+    "book clubs": 4
+  },
+  {
+    "hour": 14,
+    "count": 105,
+    "day": 7,
+    "career/business": 48,
+    "fine arts/culture": 3
+  },
+  {
+    "hour": 1,
+    "count": 225,
+    "day": 4,
+    "fine arts/culture": 40,
+    "career/business": 25
+  },
+  {
+    "hour": 1,
+    "count": 165,
+    "day": 1,
+    "fine arts/culture": 24,
+    "career/business": 19,
+    "book clubs": 1
+  },
+  {
+    "hour": 1,
+    "count": 524,
+    "day": 2,
+    "fine arts/culture": 23,
+    "career/business": 26,
+    "book clubs": 2
+  },
+  {
+    "hour": 18,
+    "count": 154,
+    "day": 5,
+    "career/business": 49,
+    "book clubs": 1,
+    "fine arts/culture": 11
+  },
+  {
+    "hour": 23,
+    "count": 399,
+    "day": 4,
+    "career/business": 72,
+    "fine arts/culture": 21,
+    "book clubs": 6
+  },
+  {
+    "hour": 0,
+    "count": 168,
+    "day": 3,
+    "fine arts/culture": 22,
+    "career/business": 30,
+    "book clubs": 4
+  },
+  {
+    "hour": 15,
+    "count": 75,
+    "day": 4,
+    "career/business": 11,
+    "book clubs": 2,
+    "fine arts/culture": 5
+  },
+  {
+    "hour": 0,
+    "count": 189,
+    "day": 2,
+    "fine arts/culture": 21,
+    "career/business": 21,
+    "book clubs": 12
+  },
+  {
+    "hour": 0,
+    "count": 677,
+    "day": 5,
+    "career/business": 48,
+    "fine arts/culture": 31,
+    "book clubs": 10
+  },
+  {
+    "hour": 23,
+    "count": 93,
+    "day": 7,
+    "fine arts/culture": 25,
+    "career/business": 43,
+    "book clubs": 10
+  },
+  {
+    "hour": 23,
+    "count": 500,
+    "day": 5,
+    "career/business": 69,
+    "fine arts/culture": 43,
+    "book clubs": 23
+  },
+  {
+    "hour": 17,
+    "count": 111,
+    "day": 4,
+    "fine arts/culture": 13,
+    "career/business": 61
+  },
+  {
+    "hour": 2,
+    "count": 150,
+    "day": 2,
+    "fine arts/culture": 52,
+    "career/business": 10,
+    "book clubs": 12
+  },
+  {
+    "hour": 2,
+    "count": 227,
+    "day": 4,
+    "fine arts/culture": 53,
+    "career/business": 15,
+    "book clubs": 6
+  },
+  {
+    "hour": 2,
+    "count": 300,
+    "day": 6,
+    "fine arts/culture": 78,
+    "career/business": 26,
+    "book clubs": 7
+  },
+  {
+    "hour": 3,
+    "count": 253,
+    "day": 2,
+    "fine arts/culture": 32,
+    "career/business": 10,
+    "book clubs": 1
+  },
+  {
+    "hour": 2,
+    "count": 278,
+    "day": 5,
+    "fine arts/culture": 50,
+    "career/business": 14,
+    "book clubs": 7
+  },
+  {
+    "hour": 1,
+    "count": 260,
+    "day": 3,
+    "fine arts/culture": 32,
+    "career/business": 30,
+    "book clubs": 2
+  },
+  {
+    "hour": 3,
+    "count": 60,
+    "day": 5,
+    "fine arts/culture": 36,
+    "career/business": 6,
+    "book clubs": 11
+  },
+  {
+    "hour": 2,
+    "count": 189,
+    "day": 3,
+    "fine arts/culture": 41,
+    "career/business": 5,
+    "book clubs": 7
+  },
+  {
+    "hour": 2,
+    "count": 165,
+    "day": 7,
+    "fine arts/culture": 55,
+    "career/business": 4,
+    "book clubs": 7
+  },
+  {
+    "hour": 1,
+    "count": 227,
+    "day": 6,
+    "fine arts/culture": 41,
+    "career/business": 37,
+    "book clubs": 1
+  },
+  {
+    "hour": 1,
+    "count": 270,
+    "day": 5,
+    "fine arts/culture": 32,
+    "career/business": 27,
+    "book clubs": 1
+  },
+  {
+    "hour": 2,
+    "count": 236,
+    "day": 1,
+    "fine arts/culture": 39,
+    "career/business": 12,
+    "book clubs": 4
+  },
+  {
+    "hour": 3,
+    "count": 57,
+    "day": 7,
+    "fine arts/culture": 42,
+    "career/business": 7,
+    "book clubs": 1
+  },
+  {
+    "hour": 3,
+    "count": 66,
+    "day": 4,
+    "fine arts/culture": 40,
+    "career/business": 6,
+    "book clubs": 4
+  },
+  {
+    "hour": 21,
+    "count": 100,
+    "day": 1,
+    "fine arts/culture": 22,
+    "career/business": 13,
+    "book clubs": 2
+  },
+  {
+    "hour": 21,
+    "count": 23,
+    "day": 5,
+    "fine arts/culture": 2,
+    "career/business": 19,
+    "book clubs": 1
+  },
+  {
+    "hour": 21,
+    "count": 43,
+    "day": 7,
+    "book clubs": 3,
+    "career/business": 13,
+    "fine arts/culture": 1
+  },
+  {
+    "hour": 1,
+    "count": 507,
+    "day": 7,
+    "fine arts/culture": 41,
+    "career/business": 27,
+    "book clubs": 1
+  },
+  {
+    "hour": 21,
+    "count": 13,
+    "day": 3,
+    "career/business": 11,
+    "book clubs": 1
+  },
+  {
+    "hour": 21,
+    "count": 69,
+    "day": 2,
+    "book clubs": 2,
+    "fine arts/culture": 4,
+    "career/business": 9
+  },
+  {
+    "hour": 21,
+    "count": 38,
+    "day": 6,
+    "fine arts/culture": 13,
+    "career/business": 8,
+    "book clubs": 2
+  },
+  {
+    "hour": 21,
+    "count": 27,
+    "day": 4,
+    "fine arts/culture": 10,
+    "career/business": 6,
+    "book clubs": 1
+  },
+  {
+    "hour": 3,
+    "count": 242,
+    "day": 1,
+    "fine arts/culture": 18,
+    "career/business": 4,
+    "book clubs": 5
+  },
+  {
+    "hour": 3,
+    "count": 105,
+    "day": 3,
+    "fine arts/culture": 21,
+    "career/business": 8,
+    "book clubs": 5
+  },
+  {
+    "hour": 19,
+    "count": 71,
+    "day": 2,
+    "career/business": 7,
+    "book clubs": 3,
+    "fine arts/culture": 10
+  },
+  {
+    "hour": 16,
+    "count": 34,
+    "day": 3,
+    "fine arts/culture": 3,
+    "career/business": 26
+  },
+  {
+    "hour": 16,
+    "count": 124,
+    "day": 1,
+    "fine arts/culture": 3,
+    "career/business": 35,
+    "book clubs": 9
+  },
+  {
+    "hour": 17,
+    "count": 137,
+    "day": 1,
+    "fine arts/culture": 14,
+    "career/business": 76
+  },
+  {
+    "hour": 17,
+    "count": 97,
+    "day": 6,
+    "fine arts/culture": 8,
+    "career/business": 72
+  },
+  {
+    "hour": 19,
+    "count": 109,
+    "day": 3,
+    "fine arts/culture": 15,
+    "career/business": 15,
+    "book clubs": 1
+  },
+  {
+    "hour": 19,
+    "count": 86,
+    "day": 4,
+    "fine arts/culture": 10,
+    "career/business": 14,
+    "book clubs": 2
+  },
+  {
+    "hour": 16,
+    "count": 52,
+    "day": 5,
+    "fine arts/culture": 13,
+    "career/business": 23
+  },
+  {
+    "hour": 20,
+    "count": 28,
+    "day": 4,
+    "fine arts/culture": 11,
+    "career/business": 10
+  },
+  {
+    "hour": 16,
+    "count": 45,
+    "day": 7,
+    "fine arts/culture": 8,
+    "career/business": 26
+  },
+  {
+    "hour": 16,
+    "count": 46,
+    "day": 2,
+    "fine arts/culture": 12,
+    "career/business": 30
+  },
+  {
+    "hour": 20,
+    "count": 52,
+    "day": 6,
+    "fine arts/culture": 24,
+    "career/business": 16
+  },
+  {
+    "hour": 19,
+    "count": 95,
+    "day": 6,
+    "fine arts/culture": 17,
+    "career/business": 15,
+    "book clubs": 2
+  },
+  {
+    "hour": 16,
+    "count": 42,
+    "day": 6,
+    "fine arts/culture": 4,
+    "career/business": 30,
+    "book clubs": 5
+  },
+  {
+    "hour": 20,
+    "count": 63,
+    "day": 2,
+    "fine arts/culture": 25,
+    "career/business": 12,
+    "book clubs": 3
+  },
+  {
+    "hour": 19,
+    "count": 167,
+    "day": 1,
+    "fine arts/culture": 13,
+    "career/business": 22,
+    "book clubs": 3
+  },
+  {
+    "hour": 19,
+    "count": 215,
+    "day": 5,
+    "fine arts/culture": 12,
+    "career/business": 18,
+    "book clubs": 1
+  },
+  {
+    "hour": 19,
+    "count": 54,
+    "day": 7,
+    "fine arts/culture": 21,
+    "career/business": 8,
+    "book clubs": 4
+  },
+  {
+    "hour": 16,
+    "count": 41,
+    "day": 4,
+    "career/business": 30,
+    "book clubs": 5
+  },
+  {
+    "hour": 15,
+    "count": 31,
+    "day": 7,
+    "career/business": 8,
+    "book clubs": 5,
+    "fine arts/culture": 5
+  },
+  {
+    "hour": 15,
+    "count": 22,
+    "day": 2,
+    "career/business": 6,
+    "book clubs": 4,
+    "fine arts/culture": 3
+  },
+  {
+    "hour": 15,
+    "count": 28,
+    "day": 3,
+    "career/business": 7,
+    "book clubs": 4,
+    "fine arts/culture": 4
+  },
+  {
+    "hour": 15,
+    "count": 41,
+    "day": 5,
+    "career/business": 15,
+    "book clubs": 8,
+    "fine arts/culture": 2
+  },
+  {
+    "hour": 17,
+    "count": 119,
+    "day": 3,
+    "career/business": 79,
+    "fine arts/culture": 4
+  },
+  {
+    "hour": 15,
+    "count": 40,
+    "day": 1,
+    "career/business": 8,
+    "book clubs": 3,
+    "fine arts/culture": 5
+  },
+  {
+    "hour": 20,
+    "count": 165,
+    "day": 5,
+    "fine arts/culture": 27,
+    "career/business": 10,
+    "book clubs": 2
+  },
+  {
+    "hour": 13,
+    "count": 46,
+    "day": 4,
+    "career/business": 32
+  },
+  {
+    "hour": 14,
+    "count": 20,
+    "day": 2,
+    "career/business": 13
+  },
+  {
+    "hour": 14,
+    "count": 37,
+    "day": 4,
+    "career/business": 24
+  },
+  {
+    "hour": 13,
+    "count": 37,
+    "day": 2,
+    "career/business": 24
+  },
+  {
+    "hour": 13,
+    "count": 33,
+    "day": 1,
+    "career/business": 19
+  },
+  {
+    "hour": 13,
+    "count": 55,
+    "day": 6,
+    "career/business": 25
+  },
+  {
+    "hour": 13,
+    "count": 58,
+    "day": 7,
+    "career/business": 21
+  },
+  {
+    "hour": 13,
+    "count": 26,
+    "day": 5,
+    "career/business": 18
+  },
+  {
+    "hour": 13,
+    "count": 30,
+    "day": 3,
+    "career/business": 19
+  },
+  {
+    "hour": 0,
+    "count": 236,
+    "day": 7,
+    "fine arts/culture": 29,
+    "career/business": 30,
+    "book clubs": 12
+  },
+  {
+    "hour": 23,
+    "count": 255,
+    "day": 2,
+    "fine arts/culture": 21,
+    "career/business": 51,
+    "book clubs": 11
+  },
+  {
+    "hour": 0,
+    "count": 198,
+    "day": 4,
+    "fine arts/culture": 40,
+    "career/business": 24,
+    "book clubs": 7
+  },
+  {
+    "hour": 18,
+    "count": 229,
+    "day": 2,
+    "career/business": 35,
+    "fine arts/culture": 9
+  },
+  {
+    "hour": 20,
+    "count": 37,
+    "day": 1,
+    "fine arts/culture": 10,
+    "career/business": 4
+  },
+  {
+    "hour": 20,
+    "count": 51,
+    "day": 3,
+    "fine arts/culture": 10,
+    "career/business": 10
+  },
+  {
+    "hour": 20,
+    "count": 51,
+    "day": 7,
+    "fine arts/culture": 17,
+    "book clubs": 2,
+    "career/business": 8
+  },
+  {
+    "hour": 18,
+    "count": 150,
+    "day": 7,
+    "career/business": 26,
+    "fine arts/culture": 10
+  },
+  {
+    "hour": 18,
+    "count": 128,
+    "day": 3,
+    "career/business": 26,
+    "fine arts/culture": 16
+  },
+  {
+    "hour": 18,
+    "count": 173,
+    "day": 6,
+    "career/business": 47,
+    "fine arts/culture": 17,
+    "book clubs": 1
+  },
+  {
+    "hour": 18,
+    "count": 83,
+    "day": 1,
+    "career/business": 34,
+    "book clubs": 2,
+    "fine arts/culture": 12
+  },
+  {
+    "hour": 18,
+    "count": 154,
+    "day": 4,
+    "career/business": 49,
+    "fine arts/culture": 13
+  },
+  {
+    "hour": 15,
+    "count": 24,
+    "day": 6,
+    "career/business": 8,
+    "book clubs": 5,
+    "fine arts/culture": 10
+  },
+  {
+    "hour": 3,
+    "count": 57,
+    "day": 6,
+    "fine arts/culture": 26,
+    "career/business": 9,
+    "book clubs": 4
+  },
+  {
+    "hour": 4,
+    "count": 114,
+    "day": 5,
+    "fine arts/culture": 3,
+    "career/business": 11
+  },
+  {
+    "hour": 4,
+    "count": 335,
+    "day": 2,
+    "fine arts/culture": 8,
+    "career/business": 6
+  },
+  {
+    "hour": 4,
+    "count": 500,
+    "day": 6,
+    "fine arts/culture": 4
+  },
+  {
+    "hour": 4,
+    "count": 303,
+    "day": 7,
+    "fine arts/culture": 3,
+    "career/business": 2
+  },
+  {
+    "hour": 4,
+    "count": 311,
+    "day": 1,
+    "fine arts/culture": 8,
+    "career/business": 4
+  },
+  {
+    "hour": 4,
+    "count": 384,
+    "day": 4,
+    "fine arts/culture": 3,
+    "career/business": 2
+  },
+  {
+    "hour": 0,
+    "count": 172,
+    "day": 6,
+    "book clubs": 8,
+    "career/business": 20,
+    "fine arts/culture": 29
+  },
+  {
+    "hour": 0,
+    "count": 83,
+    "day": 1,
+    "book clubs": 4,
+    "career/business": 16,
+    "fine arts/culture": 18
+  },
+  {
+    "hour": 4,
+    "count": 4,
+    "day": 3,
+    "career/business": 3
+  },
+  {
+    "hour": 12,
+    "count": 9,
+    "day": 4,
+    "career/business": 5
+  },
+  {
+    "hour": 12,
+    "count": 14,
+    "day": 2,
+    "career/business": 8
+  },
+  {
+    "hour": 12,
+    "count": 12,
+    "day": 7,
+    "career/business": 7
+  },
+  {
+    "hour": 12,
+    "count": 52,
+    "day": 3,
+    "career/business": 14
+  },
+  {
+    "hour": 12,
+    "count": 69,
+    "day": 5,
+    "career/business": 16
+  },
+  {
+    "hour": 12,
+    "count": 61,
+    "day": 1,
+    "career/business": 15,
+    "fine arts/culture": 1
+  },
+  {
+    "hour": 12,
+    "count": 11,
+    "day": 6,
+    "career/business": 6
+  },
+  {
+    "hour": 17,
+    "count": 105,
+    "day": 5,
+    "career/business": 77,
+    "fine arts/culture": 5
+  },
+  {
+    "hour": 17,
+    "count": 75,
+    "day": 7,
+    "career/business": 54,
+    "fine arts/culture": 11,
+    "book clubs": 1
+  },
+  {
+    "hour": 17,
+    "count": 91,
+    "day": 2,
+    "career/business": 77,
+    "fine arts/culture": 5
+  },
+  {
+    "hour": 14,
+    "count": 28,
+    "day": 6,
+    "career/business": 13
+  },
+  {
+    "hour": 11,
+    "count": 21,
+    "day": 7,
+    "career/business": 5
+  },
+  {
+    "hour": 11,
+    "count": "1",
+    "day": 1
+  },
+  {
+    "hour": 11,
+    "count": 25,
+    "day": 5,
+    "career/business": 3
+  },
+  {
+    "hour": 11,
+    "count": 32,
+    "day": 2,
+    "career/business": 7
+  },
+  {
+    "hour": 11,
+    "count": 7,
+    "day": 3,
+    "career/business": 3
+  },
+  {
+    "hour": 11,
+    "count": 16,
+    "day": 4,
+    "career/business": 3
+  },
+  {
+    "hour": 11,
+    "count": 20,
+    "day": 6,
+    "career/business": 4
+  },
+  {
+    "hour": 14,
+    "count": 18,
+    "day": 5,
+    "career/business": 14
+  },
+  {
+    "hour": 14,
+    "count": 11,
+    "day": 3,
+    "career/business": 7
+  },
+  {
+    "hour": 14,
+    "count": 9,
+    "day": 1,
+    "career/business": 6
+  }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ,
+  {
+    "hour": 8,
+    "count": 0,
+    "day": 5,
+    "career/business": 0
+  },
+  {
+    "hour": 8,
+    "count": 0,
+    "day": 3,
+    "career/business": 0
+  },
+  {
+    "hour": 8,
+    "count": 0,
+    "day": 1,
+    "career/business": 0
+  }
+    
+       
+    ,
+  {
+    "hour": 8,
+    "count": 0,
+    "day": 6,
+    "career/business": 0
+  },
+  {
+    "hour": 8,
+    "count": 0,
+    "day": 7,
+    "career/business": 0
+  },
+  {
+    "hour": 8,
+    "count": 0,
+    "day": 2,
+    "career/business": 0
+  },
+  {
+    "hour": 8,
+    "count": 0,
+    "day": 4,
+    "career/business": 0
+  }
+    
+    
+    
+    
+     
+    
+    ,
+  {
+    "hour": 8,
+    "count": 0,
+    "day": 5,
+    "career/business": 0
+  },
+  {
+    "hour": 8,
+    "count": 0,
+    "day": 3,
+    "career/business": 0
+  },
+  {
+    "hour": 8,
+    "count": 0,
+    "day": 1,
+    "career/business": 0
+  }
+    
+       
+    ,
+  {
+    "hour": 9,
+    "count": 0,
+    "day": 6,
+    "career/business": 0
+  },
+  {
+    "hour": 9,
+    "count": 0,
+    "day": 7,
+    "career/business": 0
+  },
+  {
+    "hour": 9,
+    "count": 0,
+    "day": 2,
+    "career/business": 0
+  },
+  {
+    "hour": 9,
+    "count": 0,
+    "day": 4,
+    "career/business": 0
+  }
+        ,
+  {
+    "hour": 9,
+    "count": 0,
+    "day": 5,
+    "career/business": 0
+  },
+  {
+    "hour": 9,
+    "count": 0,
+    "day": 3,
+    "career/business": 0
+  },
+  {
+    "hour": 9,
+    "count": 0,
+    "day": 1,
+    "career/business": 0
+  }
+    
+    
+   ,
+  {
+    "hour": 10,
+    "count": 0,
+    "day": 6,
+    "career/business": 0
+  },
+  {
+    "hour": 10,
+    "count": 0,
+    "day": 7,
+    "career/business": 0
+  },
+  {
+    "hour": 10,
+    "count": 0,
+    "day": 2,
+    "career/business": 0
+  },
+  {
+    "hour": 10,
+    "count": 0,
+    "day": 4,
+    "career/business": 0
+  }
+        ,
+  {
+    "hour": 10,
+    "count": 0,
+    "day": 5,
+    "career/business": 0
+  },
+  {
+    "hour": 10,
+    "count": 0,
+    "day": 3,
+    "career/business": 0
+  },
+  {
+    "hour": 10,
+    "count": 0,
+    "day": 1,
+    "career/business": 0
+  }  
+    
+      ,
+  {
+    "hour": 7,
+    "count": 0,
+    "day": 6,
+    "career/business": 0
+  },
+  {
+    "hour": 7,
+    "count": 0,
+    "day": 7,
+    "career/business": 0
+  },
+  {
+    "hour": 7,
+    "count": 0,
+    "day": 2,
+    "career/business": 0
+  },
+  {
+    "hour": 7,
+    "count": 0,
+    "day": 4,
+    "career/business": 0
+  }
+        ,
+  {
+    "hour": 7,
+    "count": 0,
+    "day": 5,
+    "career/business": 0
+  },
+  {
+    "hour": 7,
+    "count": 0,
+    "day": 3,
+    "career/business": 0
+  },
+  {
+    "hour": 7,
+    "count": 0,
+    "day": 1,
+    "career/business": 0
+  }  
+    
+    
+       ,
+  {
+    "hour": 6,
+    "count": 0,
+    "day": 6,
+    "career/business": 0
+  },
+  {
+    "hour": 6,
+    "count": 0,
+    "day": 7,
+    "career/business": 0
+  },
+  {
+    "hour": 6,
+    "count": 0,
+    "day": 2,
+    "career/business": 0
+  },
+  {
+    "hour": 6,
+    "count": 0,
+    "day": 4,
+    "career/business": 0
+  }
+        ,
+  {
+    "hour": 6,
+    "count": 0,
+    "day": 5,
+    "career/business": 0
+  },
+  {
+    "hour": 6,
+    "count": 0,
+    "day": 3,
+    "career/business": 0
+  },
+  {
+    "hour": 6,
+    "count": 0,
+    "day": 1,
+    "career/business": 0
+  }  
+    
+    
+      ,
+  {
+    "hour": 5,
+    "count": 0,
+    "day": 6,
+    "career/business": 0
+  },
+  {
+    "hour": 5,
+    "count": 0,
+    "day": 7,
+    "career/business": 0
+  },
+  {
+    "hour": 5,
+    "count": 0,
+    "day": 2,
+    "career/business": 0
+  },
+  {
+    "hour": 5,
+    "count": 0,
+    "day": 4,
+    "career/business": 0
+  }
+        ,
+  {
+    "hour": 5,
+    "count": 0,
+    "day": 5,
+    "career/business": 0
+  },
+  {
+    "hour": 5,
+    "count": 0,
+    "day": 3,
+    "career/business": 0
+  },
+  {
+    "hour": 5,
+    "count": 0,
+    "day": 1,
+    "career/business": 0
+  }  
+    
+    
+    
+    
+    
+    
+    
+    
+]

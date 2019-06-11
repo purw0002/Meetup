@@ -1,0 +1,548 @@
+[
+  {
+    "source": "Tech",
+    "target": "Socializing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 17791
+  },
+  {
+    "source": "Tech",
+    "target": "Fitness",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 4686
+  },
+  {
+    "source": "Tech",
+    "target": "Games",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 3866
+  },
+  {
+    "source": "Tech",
+    "target": "Music",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 4306
+  },
+  {
+    "source": "Tech",
+    "target": "Singles",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 4295
+  },
+  {
+    "source": "Tech",
+    "target": "LGBT",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 1801
+  },
+  {
+    "source": "Tech",
+    "target": "Book Clubs",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 2767
+  },
+  {
+    "source": "Tech",
+    "target": "Dancing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 2701
+  },
+  {
+    "source": "Tech",
+    "target": "Photography",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 1998
+  },
+  {
+    "source": "Tech",
+    "target": "Writing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 1953
+  },
+  {
+    "source": "Tech",
+    "target": "Support",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 442
+  },
+  {
+    "source": "Tech",
+    "target": "Paranormal",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 57
+  },
+  {
+    "source": "Socializing",
+    "target": "Fitness",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 11486
+  },
+  {
+    "source": "Socializing",
+    "target": "Games",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 6194
+  },
+  {
+    "source": "Socializing",
+    "target": "Music",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 9099
+  },
+  {
+    "source": "Socializing",
+    "target": "Singles",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 11202
+  },
+  {
+    "source": "Socializing",
+    "target": "LGBT",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 4130
+  },
+  {
+    "source": "Socializing",
+    "target": "Book Clubs",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 6852
+  },
+  {
+    "source": "Socializing",
+    "target": "Dancing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 6048
+  },
+  {
+    "source": "Socializing",
+    "target": "Photography",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 2569
+  },
+  {
+    "source": "Socializing",
+    "target": "Writing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 3061
+  },
+  {
+    "source": "Socializing",
+    "target": "Support",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 865
+  },
+  {
+    "source": "Socializing",
+    "target": "Paranormal",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 93
+  },
+  {
+    "source": "Fitness",
+    "target": "Games",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 1639
+  },
+  {
+    "source": "Fitness",
+    "target": "Music",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 2614
+  },
+  {
+    "source": "Fitness",
+    "target": "Singles",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 2968
+  },
+  {
+    "source": "Fitness",
+    "target": "LGBT",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 1206
+  },
+  {
+    "source": "Fitness",
+    "target": "Book Clubs",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 2320
+  },
+  {
+    "source": "Fitness",
+    "target": "Dancing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 2144
+  },
+  {
+    "source": "Fitness",
+    "target": "Photography",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 832
+  },
+  {
+    "source": "Fitness",
+    "target": "Writing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 850
+  },
+  {
+    "source": "Fitness",
+    "target": "Support",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 352
+  },
+  {
+    "source": "Fitness",
+    "target": "Paranormal",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 31
+  },
+  {
+    "source": "Games",
+    "target": "Music",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 1715
+  },
+  {
+    "source": "Games",
+    "target": "Singles",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 1328
+  },
+  {
+    "source": "Games",
+    "target": "LGBT",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 992
+  },
+  {
+    "source": "Games",
+    "target": "Book Clubs",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 1382
+  },
+  {
+    "source": "Games",
+    "target": "Dancing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 935
+  },
+  {
+    "source": "Games",
+    "target": "Photography",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 484
+  },
+  {
+    "source": "Games",
+    "target": "Writing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 757
+  },
+  {
+    "source": "Games",
+    "target": "Support",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 218
+  },
+  {
+    "source": "Games",
+    "target": "Paranormal",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 38
+  },
+  {
+    "source": "Music",
+    "target": "Singles",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 2319
+  },
+  {
+    "source": "Music",
+    "target": "LGBT",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 1151
+  },
+  {
+    "source": "Music",
+    "target": "Book Clubs",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 1839
+  },
+  {
+    "source": "Music",
+    "target": "Dancing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 2028
+  },
+  {
+    "source": "Music",
+    "target": "Photography",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 825
+  },
+  {
+    "source": "Music",
+    "target": "Writing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 1269
+  },
+  {
+    "source": "Music",
+    "target": "Support",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 300
+  },
+  {
+    "source": "Music",
+    "target": "Paranormal",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 42
+  },
+  {
+    "source": "Singles",
+    "target": "LGBT",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 807
+  },
+  {
+    "source": "Singles",
+    "target": "Book Clubs",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 1474
+  },
+  {
+    "source": "Singles",
+    "target": "Dancing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 1847
+  },
+  {
+    "source": "Singles",
+    "target": "Photography",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 551
+  },
+  {
+    "source": "Singles",
+    "target": "Writing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 618
+  },
+  {
+    "source": "Singles",
+    "target": "Support",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 260
+  },
+  {
+    "source": "Singles",
+    "target": "Paranormal",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 27
+  },
+  {
+    "source": "LGBT",
+    "target": "Book Clubs",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 1167
+  },
+  {
+    "source": "LGBT",
+    "target": "Dancing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 619
+  },
+  {
+    "source": "LGBT",
+    "target": "Photography",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 365
+  },
+  {
+    "source": "LGBT",
+    "target": "Writing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 628
+  },
+  {
+    "source": "LGBT",
+    "target": "Support",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 191
+  },
+  {
+    "source": "LGBT",
+    "target": "Paranormal",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 21
+  },
+  {
+    "source": "Book Clubs",
+    "target": "Dancing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 1025
+  },
+  {
+    "source": "Book Clubs",
+    "target": "Photography",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 488
+  },
+  {
+    "source": "Book Clubs",
+    "target": "Writing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 1134
+  },
+  {
+    "source": "Book Clubs",
+    "target": "Support",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 250
+  },
+  {
+    "source": "Book Clubs",
+    "target": "Paranormal",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 19
+  },
+  {
+    "source": "Dancing",
+    "target": "Photography",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 557
+  },
+  {
+    "source": "Dancing",
+    "target": "Writing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 600
+  },
+  {
+    "source": "Dancing",
+    "target": "Support",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 202
+  },
+  {
+    "source": "Dancing",
+    "target": "Paranormal",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 13
+  },
+  {
+    "source": "Photography",
+    "target": "Writing",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 479
+  },
+  {
+    "source": "Photography",
+    "target": "Support",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 68
+  },
+  {
+    "source": "Photography",
+    "target": "Paranormal",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 15
+  },
+  {
+    "source": "Writing",
+    "target": "Support",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 161
+  },
+  {
+    "source": "Writing",
+    "target": "Paranormal",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 22
+  },
+  {
+    "source": "Support",
+    "target": "Paranormal",
+    "targetMembers": "",
+    "sourceMembers": "",
+    "totalTraffic": 8
+  }
+]

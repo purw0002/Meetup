@@ -1,0 +1,93 @@
+[
+  {
+    "source": "Tech",
+    "total": 650274,
+      "x": 317.5,
+      "y": 282.5
+
+  },
+  {
+    "source": "Socializing",
+    "total": 122143,
+      "x": 112,
+      "y": 47
+
+  },
+  {
+    "source": "Music",
+    "total": 34657,
+            "x": 432,
+      "y": 467
+
+  },
+  {
+    "source": "Photography",
+    "total": 22221,
+            "x": 902,
+      "y": 169.5
+
+  },
+  {
+    "source": "LGBT",
+    "total": 20409,
+            "x": 592,
+      "y": 164.5
+
+  },
+  {
+    "source": "Singles",
+    "total": 18588,
+            "x": 567,
+      "y": 482
+
+  },
+  {
+    "source": "Games",
+    "total": 15710,
+            "x": 424.5,
+      "y": 99.5
+
+  },
+  {
+    "source": "Dancing",
+    "total": 8558,
+            "x": 829.5,
+      "y": 262
+
+  },
+  {
+    "source": "Fitness",
+    "total": 8555,
+      "x": 69.5,
+      "y": 287
+
+  },
+  {
+    "source": "Book Clubs",
+    "total": 7887,
+            "x": 782,
+      "y": 397
+
+  },
+  {
+    "source": "Writing",
+    "total": 6929,
+            "x": 682,
+      "y": 182
+
+  },
+  {
+    "source": "Support",
+    "total": 2544,
+                        "x": 582,
+      "y": 100
+
+  },
+  {
+    "source": "Paranormal",
+    "total": 15,
+                              "x": 860,
+      "y": 80
+
+  }
+]
